@@ -59,6 +59,7 @@ body{
 #text > a{
     font-family: 'Poppins', sans-serif;
     background-color: #fff;
+    color: hsl(300, 69%, 71%);
     padding: 13px 50px;
     border-radius: 25px;
     box-shadow: 0 8px 17px -8px rgba(0, 0, 0, .8);
